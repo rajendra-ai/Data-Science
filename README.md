@@ -1,2 +1,2 @@
-# Full-Stack-Data-Science
-Full Stack Data Science Assignments
+# Python-Data-Science
+
